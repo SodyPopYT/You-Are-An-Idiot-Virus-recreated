@@ -1,3 +1,3 @@
 # You-Are-An-Idiot-Virus-recreated
 i recreated the You Are An Idiot virus in Python! I hope you enjoy! (THIS IS MADE FOR EDUCATIONAL PURPOSES ONLY! YOU CAN TEST THIS ON BOTH HOST AND VM SINCE IT'S HARMLESS! BUT REMEMBER: WHEN YOU NEED TO CLOSE IT GO TO THE TASK MANAGER!)
-to run the app go to the dist folder and run the "app.py" file!
+to run the app go to the dist folder and run the "app.exe" file!
